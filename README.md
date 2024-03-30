@@ -17,6 +17,9 @@ I'm an 18-year-old self-taught coder from the small island of Singapore 🇸🇬
 - Java
 - Flutter
 - Rust
+- Vercel
+- Redis
+- MongoDB
 
 ## Get in Touch
 
