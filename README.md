@@ -1,6 +1,6 @@
 # Hi there, I'm kommade! 👋
 
-I'm an 18-year-old self-taught coder from the small island of Singapore 🇸🇬 passionate about leveraging technology for social good. I started my coding journey with Python at the age of 9, and since then, I've been exploring various technologies and programming languages. My curiosity and enthusiasm for learning have led me to become proficient in many different languages. I'm always looking for projects to contribute to, especially those aimed at social good!
+I'm an 19-year-old self-taught coder from the small island of Singapore 🇸🇬 passionate about leveraging technology for social good. I started my coding journey with Python at the age of 9, and since then, I've been exploring various technologies and programming languages. My curiosity and enthusiasm for learning have led me to become proficient in many different languages. I'm always looking for projects to contribute to, especially those aimed at social good!
 
 ## About Me
 
